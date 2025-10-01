@@ -16,6 +16,9 @@ python src/train_churn.py
 python src/train_rating.py
 # 3) Запуск дашборда
 streamlit run app/Home.py
+
+Либо через bash-запуск: 
+./run.sh 
 ```
 
 
