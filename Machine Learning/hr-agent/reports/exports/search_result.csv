@@ -1,0 +1,62 @@
+Employee_ID,Full_Name,Department,Job_Title,Location,Experience_Years,Performance_Rating,Hire_Date,Status
+1,Employee 001,HR,Manager,"Astana, KZ",9.8,4.5,2017-10-02,Active
+24,Employee 024,HR,Analyst,"Warsaw, PL",7.2,3.5,2023-03-17,Resigned
+30,Employee 030,HR,Engineer,"Tashkent, UZ",3.3,4.6,2015-08-07,Active
+45,Employee 045,HR,Senior Engineer,"Delhi, IN",12.6,3.9,2019-06-03,Active
+54,Employee 054,HR,Lead,"Almaty, KZ",1.3,3.7,2016-02-20,Active
+57,Employee 057,HR,Analyst,"Warsaw, PL",8.0,3.8,2022-03-09,Active
+62,Employee 062,HR,Senior Engineer,"Bishkek, KG",0.8,3.4,2022-07-28,Active
+63,Employee 063,HR,Senior Engineer,"Delhi, IN",10.4,4.1,2016-08-01,Active
+64,Employee 064,HR,Analyst,"Delhi, IN",3.7,3.7,2016-04-12,Active
+65,Employee 065,HR,Engineer,"Bishkek, KG",7.1,3.1,2020-01-03,Active
+85,Employee 085,HR,Analyst,"Tashkent, UZ",1.0,2.4,2013-06-14,Active
+90,Employee 090,HR,Analyst,"Tashkent, UZ",3.8,3.8,2023-11-09,Active
+95,Employee 095,HR,Coordinator,"Tashkent, UZ",0.9,3.2,2014-11-17,Active
+109,Employee 109,HR,Specialist,"Almaty, KZ",7.4,3.8,2018-11-02,Active
+118,Employee 118,HR,Specialist,"Tashkent, UZ",0.7,3.3,2023-12-23,Active
+119,Employee 119,HR,Engineer,"Tashkent, UZ",10.8,2.4,2013-01-27,Active
+127,Employee 127,HR,Lead,"Tashkent, UZ",3.9,3.1,2015-03-10,Active
+130,Employee 130,HR,Analyst,"Almaty, KZ",3.5,3.6,2012-04-20,Active
+136,Employee 136,HR,Analyst,"Bishkek, KG",10.0,3.2,2018-01-10,Active
+137,Employee 137,HR,Manager,"Bishkek, KG",0.3,3.8,2022-04-13,Active
+141,Employee 141,HR,Specialist,"Astana, KZ",2.6,4.3,2024-04-10,Active
+145,Employee 145,HR,Senior Engineer,"Almaty, KZ",3.7,3.3,2012-09-27,Active
+150,Employee 150,HR,Coordinator,"Almaty, KZ",6.6,4.4,2020-11-02,Resigned
+154,Employee 154,HR,Coordinator,"Delhi, IN",3.8,2.3,2017-10-09,Active
+156,Employee 156,HR,Senior Engineer,"Almaty, KZ",2.7,3.3,2014-11-09,Active
+161,Employee 161,HR,Coordinator,"Warsaw, PL",8.8,3.2,2012-12-02,Active
+162,Employee 162,HR,Lead,"Delhi, IN",6.5,3.0,2020-06-02,Active
+171,Employee 171,HR,Engineer,"Warsaw, PL",14.9,3.5,2020-01-13,Active
+173,Employee 173,HR,Lead,"Astana, KZ",0.6,2.9,2023-05-23,Resigned
+176,Employee 176,HR,Manager,"Astana, KZ",4.9,4.2,2015-07-28,Active
+185,Employee 185,HR,Analyst,"Tashkent, UZ",0.7,3.7,2024-10-17,Active
+186,Employee 186,HR,Lead,"Delhi, IN",0.5,1.8,2018-01-14,Active
+193,Employee 193,HR,Specialist,"Bishkek, KG",7.5,2.4,2015-08-05,Active
+197,Employee 197,HR,Coordinator,"Tashkent, UZ",10.5,3.9,2014-04-24,Active
+202,Employee 202,HR,Lead,"Delhi, IN",6.1,2.7,2023-04-28,Active
+218,Employee 218,HR,Manager,"Tashkent, UZ",7.3,3.8,2021-11-03,Active
+219,Employee 219,HR,Analyst,"Astana, KZ",12.8,5.0,2017-03-17,Active
+229,Employee 229,HR,Engineer,"Istanbul, TR",7.7,1.9,2012-04-23,Active
+235,Employee 235,HR,Engineer,"Almaty, KZ",0.7,4.0,2024-11-02,Active
+249,Employee 249,HR,Lead,"Delhi, IN",6.6,3.4,2024-02-12,Active
+254,Employee 254,HR,Analyst,"Tashkent, UZ",6.3,2.6,2021-01-10,Active
+256,Employee 256,HR,Engineer,"Delhi, IN",8.1,3.4,2019-07-07,Active
+261,Employee 261,HR,Coordinator,"Bishkek, KG",7.8,3.7,2019-06-28,Resigned
+264,Employee 264,HR,Analyst,"Istanbul, TR",6.4,5.0,2019-10-27,Active
+266,Employee 266,HR,Lead,"Istanbul, TR",6.9,4.1,2013-10-21,Active
+269,Employee 269,HR,Engineer,"Tashkent, UZ",13.5,4.9,2012-05-26,Active
+272,Employee 272,HR,Engineer,"Bishkek, KG",5.6,3.1,2018-03-15,Active
+280,Employee 280,HR,Analyst,"Bishkek, KG",15.0,4.5,2015-02-13,Active
+287,Employee 287,HR,Coordinator,"Tashkent, UZ",9.6,3.9,2018-08-05,Active
+288,Employee 288,HR,Senior Engineer,"Astana, KZ",8.4,3.5,2017-01-06,Active
+293,Employee 293,HR,Specialist,"Tashkent, UZ",12.3,4.0,2023-12-07,Active
+295,Employee 295,HR,Engineer,"Istanbul, TR",10.8,4.0,2019-10-17,Active
+311,Employee 311,HR,Senior Engineer,"Tashkent, UZ",4.4,3.7,2013-10-28,Active
+318,Employee 318,HR,Analyst,"Tashkent, UZ",5.9,3.1,2020-10-13,Active
+341,Employee 341,HR,Specialist,"Bishkek, KG",5.4,2.8,2017-07-21,Resigned
+343,Employee 343,HR,Senior Engineer,"Tashkent, UZ",6.5,3.6,2024-03-08,Active
+371,Employee 371,HR,Engineer,"Astana, KZ",10.5,3.2,2017-08-15,Active
+372,Employee 372,HR,Specialist,"Astana, KZ",1.1,3.7,2012-08-25,Active
+378,Employee 378,HR,Senior Engineer,"Tashkent, UZ",5.5,2.4,2020-06-27,Active
+390,Employee 390,HR,Senior Engineer,"Delhi, IN",8.5,4.2,2018-05-04,Active
+396,Employee 396,HR,Specialist,"Istanbul, TR",0.9,5.0,2015-01-12,Resigned

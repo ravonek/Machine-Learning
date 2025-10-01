@@ -1,0 +1,11 @@
+data:
+  raw_csv: data/raw/HR_Data_MNC_sample.csv   # replace with your real CSV if needed
+  parquet: data/processed/employees.parquet
+
+features:
+  categorical: ["Department","Job_Title","Location"]
+  numerical: ["Experience_Years","Performance_Rating","tenure_years"]
+
+models:
+  churn_path: models/churn_rf.joblib
+  rating_path: models/rating_rf.joblib

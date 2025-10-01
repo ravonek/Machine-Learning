@@ -1,0 +1,401 @@
+Employee_ID,Full_Name,Department,Job_Title,Location,Experience_Years,Performance_Rating,Hire_Date,Status
+1,Employee 001,HR,Manager,"Astana, KZ",9.8,4.5,2017-10-02,Active
+2,Employee 002,Sales,Engineer,"Almaty, KZ",6.5,4.0,2013-04-03,Active
+3,Employee 003,Engineering,Specialist,"Istanbul, TR",1.9,3.8,2012-10-19,Active
+4,Employee 004,Sales,Specialist,"Almaty, KZ",12.9,4.7,2016-07-05,Active
+5,Employee 005,Operations,Specialist,"Tashkent, UZ",12.2,4.0,2022-04-12,Resigned
+6,Employee 006,Marketing,Specialist,"Almaty, KZ",0.9,4.6,2015-08-22,Active
+7,Employee 007,IT Support,Manager,"Tashkent, UZ",8.8,3.0,2024-03-23,Active
+8,Employee 008,Engineering,Analyst,"Delhi, IN",7.9,3.8,2017-12-15,Active
+9,Employee 009,Engineering,Specialist,"Almaty, KZ",6.3,3.6,2019-07-02,Active
+10,Employee 010,Engineering,Specialist,"Istanbul, TR",8.6,3.1,2017-06-23,Active
+11,Employee 011,Finance,Coordinator,"Delhi, IN",6.8,4.6,2019-12-22,Resigned
+12,Employee 012,Marketing,Analyst,"Warsaw, PL",9.7,2.0,2022-08-10,Active
+13,Employee 013,Marketing,Engineer,"Tashkent, UZ",14.1,2.9,2019-01-07,Active
+14,Employee 014,Sales,Senior Engineer,"Warsaw, PL",6.0,4.5,2019-02-06,Active
+15,Employee 015,Operations,Senior Engineer,"Tashkent, UZ",12.3,4.0,2018-06-22,Active
+16,Employee 016,Sales,Engineer,"Astana, KZ",2.6,3.1,2015-11-08,Resigned
+17,Employee 017,IT Support,Senior Engineer,"Delhi, IN",3.9,4.4,2017-10-19,Active
+18,Employee 018,Sales,Coordinator,"Warsaw, PL",7.7,3.6,2021-11-22,Active
+19,Employee 019,Finance,Coordinator,"Istanbul, TR",14.3,3.2,2018-07-13,Resigned
+20,Employee 020,Marketing,Engineer,"Bishkek, KG",2.9,2.7,2015-08-06,Resigned
+21,Employee 021,Operations,Engineer,"Almaty, KZ",0.0,3.8,2017-10-01,Resigned
+22,Employee 022,Sales,Manager,"Delhi, IN",2.2,3.9,2016-06-20,Active
+23,Employee 023,Engineering,Coordinator,"Almaty, KZ",7.3,4.5,2016-02-05,Resigned
+24,Employee 024,HR,Analyst,"Warsaw, PL",7.2,3.5,2023-03-17,Resigned
+25,Employee 025,Operations,Senior Engineer,"Tashkent, UZ",10.4,4.8,2016-11-28,Resigned
+26,Employee 026,IT Support,Specialist,"Tashkent, UZ",5.5,2.9,2014-06-25,Active
+27,Employee 027,Operations,Specialist,"Istanbul, TR",4.9,3.8,2024-04-26,Active
+28,Employee 028,Finance,Coordinator,"Warsaw, PL",3.4,5.0,2020-08-12,Active
+29,Employee 029,Engineering,Analyst,"Istanbul, TR",7.1,4.0,2017-08-26,Active
+30,Employee 030,HR,Engineer,"Tashkent, UZ",3.3,4.6,2015-08-07,Active
+31,Employee 031,Finance,Specialist,"Delhi, IN",12.6,2.4,2024-11-03,Active
+32,Employee 032,Engineering,Coordinator,"Bishkek, KG",10.7,3.7,2015-08-06,Active
+33,Employee 033,Marketing,Engineer,"Tashkent, UZ",12.0,4.4,2018-12-03,Active
+34,Employee 034,Sales,Engineer,"Astana, KZ",2.3,3.5,2019-11-05,Active
+35,Employee 035,Operations,Lead,"Bishkek, KG",14.1,4.2,2012-01-26,Active
+36,Employee 036,Marketing,Specialist,"Almaty, KZ",11.2,4.4,2014-07-28,Active
+37,Employee 037,IT Support,Engineer,"Astana, KZ",3.8,3.4,2021-06-09,Active
+38,Employee 038,IT Support,Engineer,"Astana, KZ",13.7,4.2,2017-08-22,Active
+39,Employee 039,Operations,Coordinator,"Bishkek, KG",13.8,2.6,2020-09-01,Active
+40,Employee 040,IT Support,Specialist,"Astana, KZ",0.1,3.6,2024-03-06,Active
+41,Employee 041,Operations,Engineer,"Warsaw, PL",8.3,3.2,2020-08-26,Active
+42,Employee 042,Operations,Senior Engineer,"Almaty, KZ",2.9,4.5,2012-02-17,Active
+43,Employee 043,Engineering,Engineer,"Istanbul, TR",6.6,2.9,2020-04-23,Active
+44,Employee 044,Operations,Coordinator,"Delhi, IN",7.2,3.0,2015-12-17,Active
+45,Employee 045,HR,Senior Engineer,"Delhi, IN",12.6,3.9,2019-06-03,Active
+46,Employee 046,Finance,Senior Engineer,"Almaty, KZ",10.0,3.9,2024-02-25,Resigned
+47,Employee 047,Marketing,Lead,"Warsaw, PL",5.5,3.6,2019-04-24,Active
+48,Employee 048,Finance,Senior Engineer,"Bishkek, KG",14.8,4.0,2015-03-23,Active
+49,Employee 049,Operations,Analyst,"Bishkek, KG",6.3,3.4,2017-01-11,Active
+50,Employee 050,Finance,Engineer,"Warsaw, PL",5.8,3.9,2020-10-10,Active
+51,Employee 051,Engineering,Coordinator,"Almaty, KZ",3.4,3.8,2016-01-25,Active
+52,Employee 052,IT Support,Coordinator,"Astana, KZ",6.3,3.4,2022-05-13,Active
+53,Employee 053,Operations,Manager,"Delhi, IN",10.5,3.8,2023-03-14,Active
+54,Employee 054,HR,Lead,"Almaty, KZ",1.3,3.7,2016-02-20,Active
+55,Employee 055,Engineering,Coordinator,"Tashkent, UZ",1.8,5.0,2018-05-20,Active
+56,Employee 056,Operations,Senior Engineer,"Warsaw, PL",14.1,3.8,2014-05-02,Resigned
+57,Employee 057,HR,Analyst,"Warsaw, PL",8.0,3.8,2022-03-09,Active
+58,Employee 058,Engineering,Engineer,"Tashkent, UZ",0.2,4.4,2023-09-18,Active
+59,Employee 059,Operations,Senior Engineer,"Bishkek, KG",14.0,4.8,2018-11-16,Active
+60,Employee 060,Finance,Analyst,"Delhi, IN",10.3,4.5,2015-06-07,Active
+61,Employee 061,Marketing,Lead,"Warsaw, PL",2.1,5.0,2014-01-03,Active
+62,Employee 062,HR,Senior Engineer,"Bishkek, KG",0.8,3.4,2022-07-28,Active
+63,Employee 063,HR,Senior Engineer,"Delhi, IN",10.4,4.1,2016-08-01,Active
+64,Employee 064,HR,Analyst,"Delhi, IN",3.7,3.7,2016-04-12,Active
+65,Employee 065,HR,Engineer,"Bishkek, KG",7.1,3.1,2020-01-03,Active
+66,Employee 066,Engineering,Manager,"Astana, KZ",8.8,3.6,2018-01-10,Active
+67,Employee 067,Sales,Specialist,"Almaty, KZ",14.4,3.9,2023-10-13,Active
+68,Employee 068,Marketing,Senior Engineer,"Bishkek, KG",4.3,3.2,2021-11-05,Resigned
+69,Employee 069,IT Support,Specialist,"Warsaw, PL",9.4,3.5,2014-09-25,Active
+70,Employee 070,IT Support,Coordinator,"Istanbul, TR",0.2,2.1,2022-10-26,Active
+71,Employee 071,Marketing,Lead,"Warsaw, PL",3.4,4.0,2017-02-13,Active
+72,Employee 072,Operations,Lead,"Almaty, KZ",0.3,3.7,2020-11-08,Active
+73,Employee 073,Engineering,Coordinator,"Bishkek, KG",1.1,5.0,2013-11-17,Resigned
+74,Employee 074,Marketing,Analyst,"Bishkek, KG",12.1,2.9,2016-04-24,Active
+75,Employee 075,Sales,Lead,"Warsaw, PL",14.6,2.8,2019-11-10,Active
+76,Employee 076,Operations,Lead,"Warsaw, PL",3.0,3.6,2021-03-11,Active
+77,Employee 077,Marketing,Analyst,"Warsaw, PL",9.3,4.2,2019-05-22,Resigned
+78,Employee 078,Sales,Manager,"Warsaw, PL",4.4,4.3,2020-05-15,Active
+79,Employee 079,IT Support,Specialist,"Almaty, KZ",3.0,5.0,2012-05-15,Resigned
+80,Employee 080,Operations,Analyst,"Bishkek, KG",5.8,3.3,2015-02-19,Resigned
+81,Employee 081,Marketing,Analyst,"Delhi, IN",14.3,4.6,2020-05-04,Active
+82,Employee 082,Sales,Manager,"Bishkek, KG",5.9,4.7,2014-01-16,Active
+83,Employee 083,Finance,Lead,"Tashkent, UZ",2.1,3.2,2017-01-11,Active
+84,Employee 084,IT Support,Engineer,"Bishkek, KG",14.1,4.2,2015-12-01,Active
+85,Employee 085,HR,Analyst,"Tashkent, UZ",1.0,2.4,2013-06-14,Active
+86,Employee 086,IT Support,Analyst,"Almaty, KZ",1.5,4.6,2022-05-21,Active
+87,Employee 087,Sales,Manager,"Tashkent, UZ",7.7,3.9,2018-01-26,Active
+88,Employee 088,Finance,Specialist,"Delhi, IN",3.1,4.3,2013-01-24,Active
+89,Employee 089,Operations,Senior Engineer,"Istanbul, TR",9.7,3.5,2020-03-06,Active
+90,Employee 090,HR,Analyst,"Tashkent, UZ",3.8,3.8,2023-11-09,Active
+91,Employee 091,Sales,Manager,"Tashkent, UZ",8.4,3.2,2014-02-07,Active
+92,Employee 092,IT Support,Specialist,"Bishkek, KG",3.3,3.9,2017-08-14,Active
+93,Employee 093,Sales,Engineer,"Astana, KZ",2.6,2.9,2017-05-26,Active
+94,Employee 094,Engineering,Coordinator,"Warsaw, PL",6.2,3.4,2018-12-17,Active
+95,Employee 095,HR,Coordinator,"Tashkent, UZ",0.9,3.2,2014-11-17,Active
+96,Employee 096,IT Support,Coordinator,"Istanbul, TR",3.2,5.0,2016-04-13,Active
+97,Employee 097,Finance,Analyst,"Bishkek, KG",12.7,3.7,2012-07-23,Active
+98,Employee 098,IT Support,Specialist,"Bishkek, KG",7.3,3.5,2013-07-27,Active
+99,Employee 099,Finance,Senior Engineer,"Bishkek, KG",11.7,3.7,2022-02-27,Active
+100,Employee 100,Marketing,Coordinator,"Istanbul, TR",13.4,4.1,2013-09-25,Resigned
+101,Employee 101,IT Support,Senior Engineer,"Astana, KZ",8.5,4.8,2014-11-09,Active
+102,Employee 102,Finance,Coordinator,"Warsaw, PL",1.7,3.9,2013-05-17,Active
+103,Employee 103,Sales,Analyst,"Bishkek, KG",3.4,3.5,2016-08-09,Active
+104,Employee 104,Marketing,Senior Engineer,"Istanbul, TR",7.1,3.5,2015-09-08,Resigned
+105,Employee 105,Finance,Lead,"Warsaw, PL",4.6,4.5,2022-11-14,Resigned
+106,Employee 106,Sales,Manager,"Warsaw, PL",13.9,3.7,2015-08-02,Active
+107,Employee 107,Marketing,Analyst,"Bishkek, KG",10.2,4.1,2023-09-03,Active
+108,Employee 108,Sales,Coordinator,"Tashkent, UZ",12.3,5.0,2015-08-08,Active
+109,Employee 109,HR,Specialist,"Almaty, KZ",7.4,3.8,2018-11-02,Active
+110,Employee 110,Sales,Engineer,"Bishkek, KG",3.2,4.1,2021-03-14,Resigned
+111,Employee 111,Engineering,Manager,"Astana, KZ",6.7,3.4,2013-02-06,Active
+112,Employee 112,Sales,Specialist,"Warsaw, PL",11.2,2.9,2012-05-22,Active
+113,Employee 113,IT Support,Analyst,"Tashkent, UZ",6.6,3.9,2013-06-14,Active
+114,Employee 114,Engineering,Coordinator,"Delhi, IN",3.1,3.8,2017-05-27,Active
+115,Employee 115,Engineering,Lead,"Almaty, KZ",7.1,2.3,2015-06-12,Active
+116,Employee 116,Finance,Lead,"Almaty, KZ",6.2,4.9,2024-11-25,Active
+117,Employee 117,Finance,Manager,"Almaty, KZ",0.9,4.1,2023-02-20,Active
+118,Employee 118,HR,Specialist,"Tashkent, UZ",0.7,3.3,2023-12-23,Active
+119,Employee 119,HR,Engineer,"Tashkent, UZ",10.8,2.4,2013-01-27,Active
+120,Employee 120,Finance,Manager,"Warsaw, PL",14.3,2.8,2018-05-14,Active
+121,Employee 121,Sales,Senior Engineer,"Bishkek, KG",0.1,4.2,2023-03-20,Active
+122,Employee 122,IT Support,Manager,"Tashkent, UZ",5.4,3.3,2024-10-03,Active
+123,Employee 123,Finance,Senior Engineer,"Istanbul, TR",3.7,3.8,2020-09-11,Active
+124,Employee 124,Finance,Engineer,"Almaty, KZ",4.0,3.7,2013-04-04,Active
+125,Employee 125,Marketing,Senior Engineer,"Bishkek, KG",3.5,2.6,2022-04-24,Active
+126,Employee 126,IT Support,Coordinator,"Warsaw, PL",1.8,4.2,2016-05-09,Active
+127,Employee 127,HR,Lead,"Tashkent, UZ",3.9,3.1,2015-03-10,Active
+128,Employee 128,Operations,Analyst,"Astana, KZ",1.0,3.8,2016-04-17,Active
+129,Employee 129,Marketing,Engineer,"Istanbul, TR",9.8,4.0,2019-04-27,Active
+130,Employee 130,HR,Analyst,"Almaty, KZ",3.5,3.6,2012-04-20,Active
+131,Employee 131,Operations,Engineer,"Astana, KZ",5.6,4.2,2016-11-01,Resigned
+132,Employee 132,Operations,Specialist,"Warsaw, PL",5.2,2.9,2012-06-11,Resigned
+133,Employee 133,Sales,Engineer,"Tashkent, UZ",9.0,3.3,2012-06-14,Active
+134,Employee 134,Sales,Analyst,"Delhi, IN",1.2,3.2,2012-08-18,Active
+135,Employee 135,Finance,Coordinator,"Almaty, KZ",5.9,2.5,2013-11-06,Active
+136,Employee 136,HR,Analyst,"Bishkek, KG",10.0,3.2,2018-01-10,Active
+137,Employee 137,HR,Manager,"Bishkek, KG",0.3,3.8,2022-04-13,Active
+138,Employee 138,Sales,Manager,"Almaty, KZ",13.5,2.2,2018-02-27,Resigned
+139,Employee 139,Operations,Manager,"Tashkent, UZ",11.6,3.8,2014-11-26,Active
+140,Employee 140,Engineering,Specialist,"Delhi, IN",13.9,3.8,2023-09-06,Resigned
+141,Employee 141,HR,Specialist,"Astana, KZ",2.6,4.3,2024-04-10,Active
+142,Employee 142,Engineering,Analyst,"Bishkek, KG",0.8,3.9,2022-07-03,Active
+143,Employee 143,Operations,Coordinator,"Warsaw, PL",13.4,2.6,2021-07-20,Active
+144,Employee 144,IT Support,Senior Engineer,"Bishkek, KG",8.5,2.4,2012-07-17,Resigned
+145,Employee 145,HR,Senior Engineer,"Almaty, KZ",3.7,3.3,2012-09-27,Active
+146,Employee 146,Engineering,Coordinator,"Warsaw, PL",4.9,1.9,2018-10-15,Active
+147,Employee 147,Marketing,Analyst,"Istanbul, TR",9.7,3.4,2018-11-12,Active
+148,Employee 148,Finance,Engineer,"Astana, KZ",0.1,4.2,2019-08-08,Active
+149,Employee 149,Operations,Coordinator,"Istanbul, TR",6.9,4.0,2013-02-05,Active
+150,Employee 150,HR,Coordinator,"Almaty, KZ",6.6,4.4,2020-11-02,Resigned
+151,Employee 151,Sales,Lead,"Almaty, KZ",4.7,3.5,2024-09-13,Active
+152,Employee 152,IT Support,Engineer,"Astana, KZ",12.9,3.3,2021-12-23,Active
+153,Employee 153,Sales,Manager,"Astana, KZ",4.3,4.1,2022-12-08,Resigned
+154,Employee 154,HR,Coordinator,"Delhi, IN",3.8,2.3,2017-10-09,Active
+155,Employee 155,Finance,Analyst,"Astana, KZ",7.5,4.1,2016-10-17,Active
+156,Employee 156,HR,Senior Engineer,"Almaty, KZ",2.7,3.3,2014-11-09,Active
+157,Employee 157,Finance,Coordinator,"Astana, KZ",11.8,4.3,2022-06-28,Active
+158,Employee 158,Operations,Lead,"Delhi, IN",13.2,4.3,2013-05-18,Active
+159,Employee 159,Finance,Coordinator,"Warsaw, PL",5.6,3.1,2014-06-11,Active
+160,Employee 160,Finance,Senior Engineer,"Astana, KZ",9.2,4.1,2012-05-27,Active
+161,Employee 161,HR,Coordinator,"Warsaw, PL",8.8,3.2,2012-12-02,Active
+162,Employee 162,HR,Lead,"Delhi, IN",6.5,3.0,2020-06-02,Active
+163,Employee 163,Sales,Lead,"Delhi, IN",0.7,4.6,2016-02-17,Active
+164,Employee 164,Sales,Specialist,"Bishkek, KG",4.5,3.9,2014-04-12,Active
+165,Employee 165,Finance,Senior Engineer,"Astana, KZ",0.2,4.0,2019-02-03,Active
+166,Employee 166,IT Support,Coordinator,"Warsaw, PL",4.0,2.4,2024-05-01,Resigned
+167,Employee 167,IT Support,Analyst,"Delhi, IN",8.9,2.6,2020-12-16,Active
+168,Employee 168,Engineering,Engineer,"Almaty, KZ",8.0,3.1,2018-03-08,Active
+169,Employee 169,IT Support,Engineer,"Almaty, KZ",9.2,3.3,2018-04-17,Active
+170,Employee 170,Operations,Lead,"Warsaw, PL",6.2,3.2,2021-03-17,Active
+171,Employee 171,HR,Engineer,"Warsaw, PL",14.9,3.5,2020-01-13,Active
+172,Employee 172,Marketing,Engineer,"Bishkek, KG",11.1,2.7,2019-03-08,Active
+173,Employee 173,HR,Lead,"Astana, KZ",0.6,2.9,2023-05-23,Resigned
+174,Employee 174,Marketing,Lead,"Delhi, IN",6.5,4.7,2024-09-09,Active
+175,Employee 175,Sales,Specialist,"Almaty, KZ",0.2,3.6,2023-04-06,Active
+176,Employee 176,HR,Manager,"Astana, KZ",4.9,4.2,2015-07-28,Active
+177,Employee 177,Marketing,Coordinator,"Warsaw, PL",14.7,2.1,2023-01-28,Resigned
+178,Employee 178,Marketing,Specialist,"Astana, KZ",13.3,3.9,2024-04-13,Active
+179,Employee 179,Engineering,Senior Engineer,"Delhi, IN",2.2,4.0,2014-06-05,Active
+180,Employee 180,Engineering,Senior Engineer,"Almaty, KZ",10.4,3.7,2022-01-23,Resigned
+181,Employee 181,Engineering,Coordinator,"Almaty, KZ",8.9,2.6,2020-11-03,Active
+182,Employee 182,IT Support,Manager,"Warsaw, PL",1.6,4.7,2015-04-04,Resigned
+183,Employee 183,IT Support,Coordinator,"Istanbul, TR",9.5,4.1,2016-08-04,Resigned
+184,Employee 184,IT Support,Lead,"Istanbul, TR",3.1,2.6,2017-06-14,Active
+185,Employee 185,HR,Analyst,"Tashkent, UZ",0.7,3.7,2024-10-17,Active
+186,Employee 186,HR,Lead,"Delhi, IN",0.5,1.8,2018-01-14,Active
+187,Employee 187,Engineering,Manager,"Tashkent, UZ",10.6,3.1,2013-10-27,Active
+188,Employee 188,Finance,Specialist,"Almaty, KZ",3.0,3.5,2024-01-01,Active
+189,Employee 189,Engineering,Lead,"Bishkek, KG",12.0,4.0,2017-09-09,Active
+190,Employee 190,Sales,Coordinator,"Tashkent, UZ",3.2,4.5,2023-04-16,Resigned
+191,Employee 191,Marketing,Engineer,"Istanbul, TR",7.4,4.6,2013-11-11,Active
+192,Employee 192,Finance,Lead,"Bishkek, KG",1.3,3.5,2022-01-12,Active
+193,Employee 193,HR,Specialist,"Bishkek, KG",7.5,2.4,2015-08-05,Active
+194,Employee 194,IT Support,Coordinator,"Warsaw, PL",9.1,4.7,2012-06-19,Active
+195,Employee 195,Sales,Coordinator,"Istanbul, TR",6.8,2.9,2019-08-23,Active
+196,Employee 196,Operations,Senior Engineer,"Astana, KZ",5.0,3.4,2022-12-08,Active
+197,Employee 197,HR,Coordinator,"Tashkent, UZ",10.5,3.9,2014-04-24,Active
+198,Employee 198,Operations,Senior Engineer,"Tashkent, UZ",3.5,3.2,2015-05-24,Active
+199,Employee 199,Sales,Engineer,"Warsaw, PL",2.9,3.9,2016-12-10,Active
+200,Employee 200,Sales,Lead,"Almaty, KZ",13.7,4.0,2016-04-13,Active
+201,Employee 201,Engineering,Coordinator,"Bishkek, KG",11.9,3.3,2022-05-15,Resigned
+202,Employee 202,HR,Lead,"Delhi, IN",6.1,2.7,2023-04-28,Active
+203,Employee 203,Operations,Lead,"Delhi, IN",9.7,4.3,2022-11-23,Active
+204,Employee 204,Sales,Senior Engineer,"Warsaw, PL",9.6,2.6,2019-07-11,Resigned
+205,Employee 205,Marketing,Manager,"Almaty, KZ",3.6,2.6,2014-05-28,Active
+206,Employee 206,Finance,Specialist,"Almaty, KZ",12.9,4.3,2020-11-22,Active
+207,Employee 207,Sales,Analyst,"Warsaw, PL",11.7,2.9,2013-01-09,Active
+208,Employee 208,Sales,Coordinator,"Warsaw, PL",14.3,4.2,2015-09-12,Resigned
+209,Employee 209,Operations,Specialist,"Bishkek, KG",3.1,3.5,2024-06-17,Active
+210,Employee 210,Marketing,Senior Engineer,"Bishkek, KG",14.9,3.6,2014-07-17,Active
+211,Employee 211,Engineering,Specialist,"Warsaw, PL",5.3,4.2,2018-01-01,Resigned
+212,Employee 212,Finance,Lead,"Warsaw, PL",10.1,3.8,2021-05-04,Active
+213,Employee 213,Marketing,Specialist,"Bishkek, KG",14.6,5.0,2019-04-06,Resigned
+214,Employee 214,IT Support,Coordinator,"Almaty, KZ",12.0,3.5,2015-08-21,Active
+215,Employee 215,Sales,Senior Engineer,"Istanbul, TR",5.3,2.6,2018-08-10,Active
+216,Employee 216,Marketing,Coordinator,"Astana, KZ",12.5,2.5,2017-04-09,Active
+217,Employee 217,Marketing,Manager,"Tashkent, UZ",10.2,2.2,2024-05-12,Active
+218,Employee 218,HR,Manager,"Tashkent, UZ",7.3,3.8,2021-11-03,Active
+219,Employee 219,HR,Analyst,"Astana, KZ",12.8,5.0,2017-03-17,Active
+220,Employee 220,Marketing,Engineer,"Delhi, IN",9.9,4.1,2015-02-21,Active
+221,Employee 221,Operations,Specialist,"Almaty, KZ",2.1,3.7,2017-03-07,Active
+222,Employee 222,IT Support,Senior Engineer,"Delhi, IN",9.1,5.0,2023-10-26,Resigned
+223,Employee 223,Operations,Lead,"Istanbul, TR",12.6,4.0,2020-02-24,Active
+224,Employee 224,Marketing,Specialist,"Almaty, KZ",1.8,4.8,2018-04-27,Active
+225,Employee 225,Finance,Engineer,"Delhi, IN",7.3,4.6,2015-08-06,Active
+226,Employee 226,IT Support,Engineer,"Warsaw, PL",2.4,2.9,2017-08-23,Active
+227,Employee 227,Marketing,Coordinator,"Tashkent, UZ",7.0,1.0,2022-02-06,Active
+228,Employee 228,Marketing,Engineer,"Warsaw, PL",0.3,5.0,2012-11-24,Active
+229,Employee 229,HR,Engineer,"Istanbul, TR",7.7,1.9,2012-04-23,Active
+230,Employee 230,Sales,Engineer,"Tashkent, UZ",12.9,3.8,2017-06-16,Active
+231,Employee 231,Operations,Senior Engineer,"Istanbul, TR",4.3,3.3,2012-05-10,Active
+232,Employee 232,Finance,Analyst,"Bishkek, KG",7.6,4.1,2016-09-12,Active
+233,Employee 233,Marketing,Coordinator,"Bishkek, KG",1.8,4.0,2014-10-21,Resigned
+234,Employee 234,Engineering,Lead,"Bishkek, KG",8.3,4.8,2018-09-19,Resigned
+235,Employee 235,HR,Engineer,"Almaty, KZ",0.7,4.0,2024-11-02,Active
+236,Employee 236,Operations,Manager,"Delhi, IN",9.3,2.8,2022-11-23,Active
+237,Employee 237,Marketing,Senior Engineer,"Almaty, KZ",0.6,2.9,2014-02-22,Active
+238,Employee 238,Engineering,Coordinator,"Bishkek, KG",1.5,2.8,2022-01-12,Active
+239,Employee 239,Sales,Analyst,"Istanbul, TR",8.4,3.6,2018-01-11,Resigned
+240,Employee 240,Operations,Specialist,"Warsaw, PL",14.0,4.3,2012-08-19,Active
+241,Employee 241,IT Support,Coordinator,"Almaty, KZ",12.2,2.0,2019-02-01,Active
+242,Employee 242,Operations,Lead,"Delhi, IN",14.7,2.8,2019-07-18,Resigned
+243,Employee 243,Marketing,Senior Engineer,"Bishkek, KG",13.4,3.0,2012-11-22,Resigned
+244,Employee 244,IT Support,Senior Engineer,"Almaty, KZ",13.0,3.0,2014-08-01,Active
+245,Employee 245,Operations,Manager,"Astana, KZ",11.0,3.7,2024-12-23,Active
+246,Employee 246,Sales,Coordinator,"Warsaw, PL",1.3,3.8,2022-09-23,Active
+247,Employee 247,Marketing,Engineer,"Tashkent, UZ",10.8,3.7,2022-11-27,Active
+248,Employee 248,Finance,Analyst,"Tashkent, UZ",10.9,3.6,2014-08-20,Resigned
+249,Employee 249,HR,Lead,"Delhi, IN",6.6,3.4,2024-02-12,Active
+250,Employee 250,Sales,Coordinator,"Warsaw, PL",6.3,3.2,2018-08-09,Active
+251,Employee 251,Operations,Analyst,"Tashkent, UZ",4.2,2.8,2024-10-11,Active
+252,Employee 252,Marketing,Coordinator,"Almaty, KZ",2.3,2.8,2016-10-14,Active
+253,Employee 253,Sales,Manager,"Bishkek, KG",10.3,2.2,2024-08-10,Active
+254,Employee 254,HR,Analyst,"Tashkent, UZ",6.3,2.6,2021-01-10,Active
+255,Employee 255,IT Support,Specialist,"Istanbul, TR",2.2,5.0,2020-11-25,Active
+256,Employee 256,HR,Engineer,"Delhi, IN",8.1,3.4,2019-07-07,Active
+257,Employee 257,Marketing,Analyst,"Astana, KZ",9.1,3.2,2015-05-19,Active
+258,Employee 258,IT Support,Manager,"Bishkek, KG",8.1,2.8,2020-06-25,Resigned
+259,Employee 259,Finance,Specialist,"Delhi, IN",13.5,4.3,2019-09-19,Active
+260,Employee 260,Sales,Engineer,"Astana, KZ",2.7,3.0,2023-05-12,Active
+261,Employee 261,HR,Coordinator,"Bishkek, KG",7.8,3.7,2019-06-28,Resigned
+262,Employee 262,Marketing,Coordinator,"Bishkek, KG",1.2,3.8,2017-10-01,Active
+263,Employee 263,Operations,Engineer,"Delhi, IN",1.4,4.1,2021-08-19,Active
+264,Employee 264,HR,Analyst,"Istanbul, TR",6.4,5.0,2019-10-27,Active
+265,Employee 265,Sales,Coordinator,"Tashkent, UZ",0.6,3.8,2013-01-02,Resigned
+266,Employee 266,HR,Lead,"Istanbul, TR",6.9,4.1,2013-10-21,Active
+267,Employee 267,Engineering,Engineer,"Warsaw, PL",3.9,2.5,2022-09-13,Active
+268,Employee 268,IT Support,Analyst,"Astana, KZ",14.5,3.1,2023-04-06,Resigned
+269,Employee 269,HR,Engineer,"Tashkent, UZ",13.5,4.9,2012-05-26,Active
+270,Employee 270,Marketing,Coordinator,"Warsaw, PL",14.8,2.7,2012-02-05,Active
+271,Employee 271,Engineering,Lead,"Astana, KZ",11.2,2.9,2022-02-16,Active
+272,Employee 272,HR,Engineer,"Bishkek, KG",5.6,3.1,2018-03-15,Active
+273,Employee 273,Sales,Engineer,"Warsaw, PL",7.0,4.8,2014-04-03,Active
+274,Employee 274,IT Support,Lead,"Tashkent, UZ",2.1,2.9,2019-02-13,Active
+275,Employee 275,Marketing,Manager,"Almaty, KZ",14.6,3.3,2013-11-12,Resigned
+276,Employee 276,Sales,Engineer,"Warsaw, PL",2.7,4.1,2019-09-05,Active
+277,Employee 277,Sales,Manager,"Tashkent, UZ",6.2,4.0,2016-06-26,Resigned
+278,Employee 278,Finance,Analyst,"Almaty, KZ",6.8,4.1,2019-02-05,Active
+279,Employee 279,Engineering,Coordinator,"Warsaw, PL",10.0,3.8,2016-02-09,Active
+280,Employee 280,HR,Analyst,"Bishkek, KG",15.0,4.5,2015-02-13,Active
+281,Employee 281,Sales,Coordinator,"Almaty, KZ",10.9,3.0,2012-08-26,Active
+282,Employee 282,Operations,Manager,"Astana, KZ",0.0,5.0,2020-05-06,Active
+283,Employee 283,Engineering,Senior Engineer,"Bishkek, KG",4.2,4.2,2020-04-23,Active
+284,Employee 284,Operations,Coordinator,"Almaty, KZ",1.3,5.0,2021-12-16,Active
+285,Employee 285,Sales,Senior Engineer,"Astana, KZ",9.2,3.2,2021-05-07,Resigned
+286,Employee 286,Marketing,Specialist,"Warsaw, PL",6.1,2.2,2023-01-17,Active
+287,Employee 287,HR,Coordinator,"Tashkent, UZ",9.6,3.9,2018-08-05,Active
+288,Employee 288,HR,Senior Engineer,"Astana, KZ",8.4,3.5,2017-01-06,Active
+289,Employee 289,Operations,Coordinator,"Delhi, IN",0.1,2.7,2020-02-04,Active
+290,Employee 290,Sales,Coordinator,"Istanbul, TR",13.0,3.5,2017-12-28,Active
+291,Employee 291,IT Support,Analyst,"Almaty, KZ",13.1,4.5,2020-01-17,Active
+292,Employee 292,Sales,Senior Engineer,"Almaty, KZ",14.5,3.3,2015-10-06,Resigned
+293,Employee 293,HR,Specialist,"Tashkent, UZ",12.3,4.0,2023-12-07,Active
+294,Employee 294,IT Support,Lead,"Delhi, IN",8.6,3.7,2020-04-23,Active
+295,Employee 295,HR,Engineer,"Istanbul, TR",10.8,4.0,2019-10-17,Active
+296,Employee 296,Engineering,Engineer,"Almaty, KZ",6.1,3.7,2014-09-19,Active
+297,Employee 297,Sales,Lead,"Astana, KZ",8.6,3.6,2012-11-13,Active
+298,Employee 298,Operations,Specialist,"Istanbul, TR",7.9,3.1,2018-01-25,Active
+299,Employee 299,Finance,Coordinator,"Astana, KZ",5.0,1.5,2024-06-27,Active
+300,Employee 300,Operations,Analyst,"Almaty, KZ",7.8,4.5,2022-06-08,Active
+301,Employee 301,Marketing,Engineer,"Warsaw, PL",5.5,3.3,2018-04-17,Active
+302,Employee 302,Sales,Manager,"Astana, KZ",14.5,3.5,2024-08-21,Resigned
+303,Employee 303,Engineering,Coordinator,"Almaty, KZ",9.6,3.5,2016-11-18,Active
+304,Employee 304,Engineering,Engineer,"Delhi, IN",3.8,4.8,2020-01-14,Active
+305,Employee 305,Engineering,Engineer,"Tashkent, UZ",4.6,3.4,2021-09-09,Resigned
+306,Employee 306,Operations,Senior Engineer,"Delhi, IN",6.6,3.3,2020-03-10,Active
+307,Employee 307,Operations,Analyst,"Tashkent, UZ",3.7,4.5,2019-10-23,Active
+308,Employee 308,Marketing,Senior Engineer,"Bishkek, KG",8.2,4.1,2017-08-18,Active
+309,Employee 309,Finance,Coordinator,"Bishkek, KG",4.7,3.6,2020-09-13,Active
+310,Employee 310,Finance,Analyst,"Almaty, KZ",2.4,4.2,2015-06-18,Active
+311,Employee 311,HR,Senior Engineer,"Tashkent, UZ",4.4,3.7,2013-10-28,Active
+312,Employee 312,Marketing,Specialist,"Almaty, KZ",5.8,3.1,2019-06-24,Active
+313,Employee 313,Operations,Lead,"Astana, KZ",11.1,4.0,2017-03-22,Resigned
+314,Employee 314,Operations,Analyst,"Istanbul, TR",12.3,4.2,2020-02-24,Active
+315,Employee 315,IT Support,Analyst,"Bishkek, KG",11.8,3.1,2014-07-28,Resigned
+316,Employee 316,Finance,Specialist,"Istanbul, TR",8.8,1.9,2019-07-19,Resigned
+317,Employee 317,IT Support,Analyst,"Istanbul, TR",13.1,3.0,2019-12-15,Active
+318,Employee 318,HR,Analyst,"Tashkent, UZ",5.9,3.1,2020-10-13,Active
+319,Employee 319,Engineering,Lead,"Istanbul, TR",12.7,2.7,2014-09-10,Active
+320,Employee 320,Finance,Manager,"Delhi, IN",8.7,3.6,2013-06-11,Active
+321,Employee 321,Operations,Senior Engineer,"Istanbul, TR",14.4,3.8,2012-01-02,Active
+322,Employee 322,Finance,Specialist,"Tashkent, UZ",11.6,4.4,2020-10-14,Active
+323,Employee 323,Operations,Lead,"Warsaw, PL",6.5,3.4,2022-06-15,Active
+324,Employee 324,Marketing,Specialist,"Almaty, KZ",3.4,3.7,2018-06-17,Active
+325,Employee 325,Operations,Senior Engineer,"Delhi, IN",13.2,4.5,2019-10-19,Active
+326,Employee 326,Operations,Coordinator,"Warsaw, PL",1.4,3.4,2017-06-12,Active
+327,Employee 327,IT Support,Specialist,"Tashkent, UZ",2.6,3.2,2017-09-14,Active
+328,Employee 328,Operations,Coordinator,"Tashkent, UZ",7.7,3.0,2020-04-14,Active
+329,Employee 329,Marketing,Specialist,"Delhi, IN",1.6,2.6,2023-01-23,Active
+330,Employee 330,IT Support,Analyst,"Almaty, KZ",10.7,3.1,2020-01-10,Active
+331,Employee 331,Engineering,Engineer,"Delhi, IN",10.0,3.9,2020-10-09,Active
+332,Employee 332,Operations,Senior Engineer,"Delhi, IN",8.6,4.5,2018-10-04,Resigned
+333,Employee 333,Operations,Specialist,"Istanbul, TR",1.6,4.0,2020-08-27,Active
+334,Employee 334,Finance,Coordinator,"Istanbul, TR",0.9,3.9,2012-11-25,Active
+335,Employee 335,Sales,Senior Engineer,"Warsaw, PL",5.3,3.9,2013-10-03,Active
+336,Employee 336,Finance,Manager,"Delhi, IN",0.3,4.2,2015-07-19,Active
+337,Employee 337,Engineering,Engineer,"Bishkek, KG",9.3,3.6,2021-03-11,Resigned
+338,Employee 338,IT Support,Manager,"Istanbul, TR",4.6,3.8,2021-05-16,Active
+339,Employee 339,Engineering,Lead,"Astana, KZ",5.8,3.5,2016-07-23,Active
+340,Employee 340,IT Support,Senior Engineer,"Istanbul, TR",1.3,3.0,2014-06-13,Active
+341,Employee 341,HR,Specialist,"Bishkek, KG",5.4,2.8,2017-07-21,Resigned
+342,Employee 342,Engineering,Coordinator,"Bishkek, KG",13.7,5.0,2020-04-13,Active
+343,Employee 343,HR,Senior Engineer,"Tashkent, UZ",6.5,3.6,2024-03-08,Active
+344,Employee 344,Engineering,Analyst,"Astana, KZ",8.2,3.8,2024-03-18,Active
+345,Employee 345,IT Support,Coordinator,"Istanbul, TR",3.6,3.2,2018-07-21,Active
+346,Employee 346,Sales,Manager,"Tashkent, UZ",7.6,4.0,2015-08-22,Resigned
+347,Employee 347,Marketing,Specialist,"Tashkent, UZ",13.5,2.9,2015-07-20,Active
+348,Employee 348,Sales,Coordinator,"Istanbul, TR",1.8,3.2,2020-02-18,Active
+349,Employee 349,Marketing,Coordinator,"Istanbul, TR",5.8,3.0,2016-01-13,Active
+350,Employee 350,Marketing,Coordinator,"Astana, KZ",12.8,2.7,2017-04-22,Active
+351,Employee 351,Engineering,Analyst,"Delhi, IN",12.1,3.6,2023-05-03,Active
+352,Employee 352,Sales,Lead,"Istanbul, TR",6.0,3.1,2017-07-28,Active
+353,Employee 353,IT Support,Lead,"Warsaw, PL",12.9,4.0,2012-06-22,Active
+354,Employee 354,Marketing,Manager,"Tashkent, UZ",0.4,4.1,2023-12-15,Active
+355,Employee 355,IT Support,Analyst,"Bishkek, KG",13.6,4.1,2016-10-24,Active
+356,Employee 356,Marketing,Manager,"Almaty, KZ",0.6,4.0,2014-07-07,Active
+357,Employee 357,Sales,Lead,"Bishkek, KG",0.6,3.2,2014-10-27,Active
+358,Employee 358,Finance,Specialist,"Warsaw, PL",3.8,4.7,2018-11-22,Active
+359,Employee 359,Engineering,Coordinator,"Almaty, KZ",11.5,2.6,2021-10-23,Resigned
+360,Employee 360,Sales,Engineer,"Warsaw, PL",0.6,2.2,2017-04-25,Active
+361,Employee 361,Marketing,Manager,"Almaty, KZ",10.4,2.6,2015-05-17,Resigned
+362,Employee 362,Finance,Analyst,"Bishkek, KG",10.4,4.4,2023-12-27,Active
+363,Employee 363,Marketing,Specialist,"Bishkek, KG",0.8,3.3,2020-03-16,Active
+364,Employee 364,Engineering,Coordinator,"Warsaw, PL",12.1,2.8,2016-03-18,Resigned
+365,Employee 365,IT Support,Senior Engineer,"Warsaw, PL",8.2,3.6,2017-06-14,Resigned
+366,Employee 366,Marketing,Senior Engineer,"Tashkent, UZ",2.0,3.9,2023-08-22,Active
+367,Employee 367,Marketing,Engineer,"Astana, KZ",7.7,1.8,2017-12-10,Resigned
+368,Employee 368,Marketing,Specialist,"Astana, KZ",8.4,4.2,2017-11-27,Resigned
+369,Employee 369,Finance,Senior Engineer,"Istanbul, TR",10.2,4.9,2024-07-27,Active
+370,Employee 370,Marketing,Engineer,"Tashkent, UZ",5.4,5.0,2015-01-02,Active
+371,Employee 371,HR,Engineer,"Astana, KZ",10.5,3.2,2017-08-15,Active
+372,Employee 372,HR,Specialist,"Astana, KZ",1.1,3.7,2012-08-25,Active
+373,Employee 373,Marketing,Analyst,"Warsaw, PL",14.7,3.2,2019-07-16,Active
+374,Employee 374,Operations,Engineer,"Tashkent, UZ",5.4,3.5,2013-11-10,Active
+375,Employee 375,Marketing,Lead,"Warsaw, PL",3.8,3.6,2012-01-25,Active
+376,Employee 376,Sales,Analyst,"Tashkent, UZ",2.8,4.0,2022-09-28,Active
+377,Employee 377,Marketing,Engineer,"Astana, KZ",11.8,4.2,2017-07-06,Active
+378,Employee 378,HR,Senior Engineer,"Tashkent, UZ",5.5,2.4,2020-06-27,Active
+379,Employee 379,Sales,Engineer,"Almaty, KZ",1.6,4.2,2023-07-02,Active
+380,Employee 380,Finance,Manager,"Bishkek, KG",11.0,1.9,2016-10-19,Active
+381,Employee 381,Sales,Senior Engineer,"Warsaw, PL",2.5,1.6,2013-01-28,Active
+382,Employee 382,Sales,Lead,"Astana, KZ",5.6,4.3,2012-10-28,Active
+383,Employee 383,Operations,Senior Engineer,"Bishkek, KG",4.2,3.1,2018-06-03,Active
+384,Employee 384,Marketing,Senior Engineer,"Istanbul, TR",13.6,2.8,2014-07-10,Resigned
+385,Employee 385,IT Support,Lead,"Delhi, IN",5.2,3.7,2017-09-15,Active
+386,Employee 386,Operations,Coordinator,"Warsaw, PL",2.3,3.9,2018-10-20,Resigned
+387,Employee 387,IT Support,Lead,"Almaty, KZ",10.1,3.1,2021-07-12,Active
+388,Employee 388,Marketing,Analyst,"Astana, KZ",13.0,3.2,2020-11-01,Active
+389,Employee 389,Sales,Lead,"Warsaw, PL",6.7,4.6,2017-09-19,Active
+390,Employee 390,HR,Senior Engineer,"Delhi, IN",8.5,4.2,2018-05-04,Active
+391,Employee 391,Sales,Lead,"Delhi, IN",1.7,4.0,2013-04-17,Active
+392,Employee 392,Marketing,Senior Engineer,"Bishkek, KG",8.3,3.1,2015-09-19,Active
+393,Employee 393,Marketing,Specialist,"Delhi, IN",8.5,4.3,2024-08-05,Active
+394,Employee 394,Operations,Lead,"Delhi, IN",12.6,2.6,2013-11-24,Active
+395,Employee 395,Finance,Lead,"Istanbul, TR",5.9,4.6,2021-08-25,Resigned
+396,Employee 396,HR,Specialist,"Istanbul, TR",0.9,5.0,2015-01-12,Resigned
+397,Employee 397,Marketing,Senior Engineer,"Delhi, IN",6.9,3.9,2013-10-28,Active
+398,Employee 398,Engineering,Coordinator,"Warsaw, PL",5.3,3.9,2017-12-27,Active
+399,Employee 399,IT Support,Lead,"Warsaw, PL",0.2,3.6,2020-12-17,Active
+400,Employee 400,Marketing,Engineer,"Bishkek, KG",12.2,4.2,2017-02-12,Active
